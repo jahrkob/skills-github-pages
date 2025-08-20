@@ -2,8 +2,6 @@
 title: Welcome to my blog!
 ---
 
-# Welcome to My Markdown Example 🎉
-
 This is a **bold** word, and this is *italic*.  
 You can also combine them: ***bold & italic***.
 
